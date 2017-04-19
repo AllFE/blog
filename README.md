@@ -11,3 +11,6 @@
 * [canvas 动点与动线动画](https://github.com/AllFE/blog/issues/4)
 
 * [用async丰满你的ajax](https://github.com/AllFE/blog/issues/5)
+
+* [Object.is 与 === 和 == 的探究](https://github.com/AllFE/blog/issues/6)
+
